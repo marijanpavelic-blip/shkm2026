@@ -26,5 +26,11 @@
     "social"
   ],
   "dir": "ltr",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "display_override": [
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
+  ]
 }
