@@ -20,5 +20,9 @@
     }
   ],
   "description": "Službena aplikacija Susreta hrvatske katoličke mladeži 2026. u Požegi. Program, karta, obavijesti i sve informacije na jednom mjestu.",
-  "lang": "hr"
+  "lang": "hr",
+  "categories": [
+    "education",
+    "social"
+  ]
 }
