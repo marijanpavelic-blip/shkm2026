@@ -35,3 +35,15 @@
   ],
   "id": "hr.shkm.app"
 }
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "hr.shkm.app",
+      "sha256_cert_fingerprints":
+        ["AB:C7:F4:CE:28:B2:FE:DF:44:4E:98:03:7E:39:2D:85:23:65:1E:4C:31:99:CD:0F:8E:9F:D1:38:BB:95:57:92"]
+    }
+  }
+]
