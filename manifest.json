@@ -2,7 +2,7 @@
   "name": "SHKM 2026.",
   "short_name": "SHKM 2026.",
   "start_url": "/wp-content/uploads/2026/04/SHKM2026-app2.html",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#e4363f",
   "theme_color": "#e4363f",
   "icons": [
