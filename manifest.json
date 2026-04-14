@@ -8,4 +8,16 @@
   "short_name": "SHKM 2026",
   "start_url": "/wp-content/uploads/2026/04/SHKM2026-app2.html",
   "theme_color": "#e4363f"
+  "icons": [
+  {
+    "src": "https://shkm2026.hr/wp-content/uploads/2026/04/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "https://shkm2026.hr/wp-content/uploads/2026/04/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
 }
